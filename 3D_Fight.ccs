@@ -1,0 +1,23 @@
+<Solution>
+  <PropertyGroup Name="3D_Fight" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="Scene3D.csd" Type="Scene3D" />
+        <File Name="caodi.obj 2" />
+        <Image Name="gw03022.png" />
+        <Image Name="gw03122.png" />
+        <Image Name="long.png" />
+        <File Name="MainScene.csb" />
+        <Image Name="plane.png" />
+        <Image Name="yaoyao1.png" />
+        <Sprite3DFile Name="LLL.c3b" />
+        <Sprite3DFile Name="YYY.c3b" />
+        <Sprite3DFile Name="XXX5.c3b" />
+        <Sprite3DFile Name="rysj1.c3b" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
